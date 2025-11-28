@@ -1,0 +1,266 @@
+[
+  {
+    "area": "Ciências Humanas",
+    "tema": "Existência humana como questão filosófica",
+    "descricao": "Reflexão filosófica sobre o sentido da vida, liberdade e condição humana.",
+    "link": "https://www.todamateria.com.br/existencialismo/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Saberes ancestrais e povos originários",
+    "descricao": "Conhecimentos produzidos por povos indígenas e sua relação com sociedade e natureza.",
+    "link": "https://www.gov.br/funai"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Perspectiva decolonial",
+    "descricao": "Questionamento do eurocentrismo e valorização de saberes não hegemônicos.",
+    "link": "https://brasilescola.uol.com.br/sociologia/decolonialismo.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Colonialismo e suas consequências",
+    "descricao": "Impactos políticos, econômicos e culturais do colonialismo.",
+    "link": "https://brasilescola.uol.com.br/historia/colonialismo.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Desigualdades sociais",
+    "descricao": "Diferenças de classe, gênero e etnia na sociedade contemporânea.",
+    "link": "https://www.todamateria.com.br/desigualdade-social/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Racismo estrutural",
+    "descricao": "Racismo como fenômeno histórico e social no Brasil.",
+    "link": "https://www.todamateria.com.br/racismo-estrutural/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Protagonismo indígena no Brasil",
+    "descricao": "Participação indígena na formação histórica e cultural brasileira.",
+    "link": "https://brasilescola.uol.com.br/geografia/povos-indigenas-no-brasil.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Protagonismo negro na sociedade brasileira",
+    "descricao": "Contribuições históricas, culturais e políticas da população negra.",
+    "link": "https://www.gov.br/palmares"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Diversidade cultural brasileira",
+    "descricao": "Pluralidade de culturas e identidades no Brasil.",
+    "link": "https://www.todamateria.com.br/diversidade-cultural/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Cidadania",
+    "descricao": "Direitos e deveres do cidadão na sociedade democrática.",
+    "link": "https://www.todamateria.com.br/cidadania/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Democracia",
+    "descricao": "Formas de participação política e organização democrática.",
+    "link": "https://brasilescola.uol.com.br/politica/democracia.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Movimentos sociais",
+    "descricao": "Organização coletiva e luta por direitos sociais.",
+    "link": "https://www.todamateria.com.br/movimentos-sociais/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Globalização",
+    "descricao": "Integração econômica, cultural e tecnológica entre países.",
+    "link": "https://brasilescola.uol.com.br/geografia/globalizacao.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Trabalho e sociedade",
+    "descricao": "Transformações históricas do trabalho e suas implicações sociais.",
+    "link": "https://brasilescola.uol.com.br/sociologia/trabalho.htm"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Identidade cultural",
+    "descricao": "Processo de construção das identidades individuais e coletivas.",
+    "link": "https://www.todamateria.com.br/identidade-cultural/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Interpretação de texto",
+    "descricao": "Compreensão e análise crítica de textos verbais e não verbais.",
+    "link": "https://www.todamateria.com.br/interpretacao-de-texto/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Gêneros textuais",
+    "descricao": "Formas de organização e função social dos textos.",
+    "link": "https://brasilescola.uol.com.br/redacao/generos-textuais.htm"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Argumentação",
+    "descricao": "Estratégias argumentativas em textos opinativos.",
+    "link": "https://www.todamateria.com.br/argumentacao/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Variação linguística",
+    "descricao": "Diversidade de usos da língua portuguesa.",
+    "link": "https://www.todamateria.com.br/variacao-linguistica/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Literatura brasileira",
+    "descricao": "Movimentos e características da literatura no Brasil.",
+    "link": "https://brasilescola.uol.com.br/literatura/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Arte e cultura",
+    "descricao": "A arte como expressão cultural e social.",
+    "link": "https://www.todamateria.com.br/arte-e-cultura/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Estética",
+    "descricao": "Reflexões filosóficas sobre o belo e a arte.",
+    "link": "https://www.todamateria.com.br/estetica/"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Sustentabilidade",
+    "descricao": "Uso consciente dos recursos naturais.",
+    "link": "https://www.todamateria.com.br/sustentabilidade/"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Meio ambiente",
+    "descricao": "Relação entre sociedade e natureza.",
+    "link": "https://www.gov.br/mma"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Biodiversidade brasileira",
+    "descricao": "Variedade de espécies e ecossistemas do Brasil.",
+    "link": "https://brasilescola.uol.com.br/geografia/biodiversidade-brasileira.htm"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Saúde pública",
+    "descricao": "Políticas de saúde e bem-estar da população.",
+    "link": "https://www.gov.br/saude"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Ciência e tecnologia",
+    "descricao": "Avanço científico e impactos sociais.",
+    "link": "https://www.todamateria.com.br/ciencia-e-tecnologia/"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Mudanças climáticas",
+    "descricao": "Alterações climáticas e suas consequências.",
+    "link": "https://www.todamateria.com.br/mudancas-climaticas/"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Ecologia",
+    "descricao": "Relações entre seres vivos e ambiente.",
+    "link": "https://www.brasilescola.uol.com.br/biologia/ecologia.htm"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Porcentagem",
+    "descricao": "Cálculos percentuais aplicados ao cotidiano.",
+    "link": "https://www.todamateria.com.br/porcentagem/"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Razão e proporção",
+    "descricao": "Comparação entre grandezas.",
+    "link": "https://www.brasilescola.uol.com.br/matematica/razao-proporcao.htm"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Estatística básica",
+    "descricao": "Leitura e interpretação de dados.",
+    "link": "https://www.todamateria.com.br/estatistica/"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Gráficos e tabelas",
+    "descricao": "Representações visuais de dados numéricos.",
+    "link": "https://www.brasilescola.uol.com.br/matematica/graficos-tabelas.htm"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Raciocínio lógico",
+    "descricao": "Encadeamento coerente de ideias matemáticas.",
+    "link": "https://www.todamateria.com.br/logica-matematica/"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Resolução de problemas",
+    "descricao": "Aplicação da matemática em situações reais.",
+    "link": "https://brasilescola.uol.com.br/matematica/resolucao-problemas.htm"
+  },
+  {
+    "area": "Matemática",
+    "tema": "Matemática financeira",
+    "descricao": "Juros e planejamento financeiro.",
+    "link": "https://www.todamateria.com.br/matematica-financeira/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Formação histórica do Brasil",
+    "descricao": "Processo histórico de construção da sociedade brasileira.",
+    "link": "https://brasilescola.uol.com.br/historiab/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Memória e história",
+    "descricao": "Construção da memória coletiva.",
+    "link": "https://www.todamateria.com.br/memoria/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Leitura de imagens",
+    "descricao": "Análise de charges, cartuns e imagens.",
+    "link": "https://www.todamateria.com.br/charges/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Texto dissertativo-argumentativo",
+    "descricao": "Produção textual com defesa de ideias.",
+    "link": "https://brasilescola.uol.com.br/redacao/texto-dissertativo.htm"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Uso da água",
+    "descricao": "Importância e preservação dos recursos hídricos.",
+    "link": "https://www.todamateria.com.br/agua/"
+  },
+  {
+    "area": "Ciências Humanas",
+    "tema": "Direitos humanos",
+    "descricao": "Princípios fundamentais de dignidade e igualdade.",
+    "link": "https://www.todamateria.com.br/direitos-humanos/"
+  },
+  {
+    "area": "Linguagens",
+    "tema": "Linguagem e poder",
+    "descricao": "Uso da linguagem como instrumento de influência social.",
+    "link": "https://brasilescola.uol.com.br/sociologia/linguagem-e-poder.htm"
+  },
+  {
+    "area": "Ciências Naturais",
+    "tema": "Evolução das espécies",
+    "descricao": "Processos evolutivos e diversidade biológica.",
+    "link": "https://www.todamateria.com.br/evolucao/"
+  }
+]

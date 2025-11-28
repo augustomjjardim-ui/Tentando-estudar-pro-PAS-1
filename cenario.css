@@ -1,0 +1,74 @@
+/* Importa a fonte 'Roboto' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Estilos gerais para o corpo da página */
+body {
+    font-family: 'Roboto', sans-serif; /* Define a família da fonte para todo o documento */
+    margin: 0; /* Remove a margem padrão do navegador */
+    padding: 0; /* Remove o preenchimento padrão do navegador */
+    background-color: #333; /* Define uma cor de fundo cinza claro */
+    color: #ffffff; /* Define a cor padrão do texto */
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333; /* Define a cor de fundo do cabeçalho */
+    color: white; /* Define a cor do texto no cabeçalho */
+    padding: 20px; /* Adiciona espaçamento interno ao cabeçalho */
+    text-align: center; /* Centraliza o conteúdo do cabeçalho */
+}
+
+/* Estilos para o título principal no cabeçalho */
+header h1 {
+    margin: 0; /* Remove a margem do título para alinhá-lo melhor */
+}
+
+/* Estilos para o container do campo de busca */
+header div {
+    margin-top: 15px; /* Adiciona uma margem no topo, separando do título */
+}
+
+/* Estilos para o campo de texto */
+input[type="text"] {
+    padding: 10px; /* Adiciona espaçamento interno para o texto não ficar colado na borda */
+    width: 250px; /* Define a largura do campo de texto */
+    border: 1px solid #ccc; /* Adiciona uma borda sutil */
+    border-radius: 4px; /* Arredonda as bordas do campo */
+}
+
+/* Estilos para o botão de busca */
+#botao-busca {
+    padding: 10px 20px; /* Adiciona espaçamento interno (vertical e horizontal) */
+    background-color: #007BFF; /* Define a cor de fundo do botão */
+    color: white; /* Define a cor do texto do botão */
+    border: none; /* Remove a borda padrão do botão */
+    border-radius: 4px; /* Arredonda as bordas do botão */
+    cursor: pointer; /* Muda o cursor para uma "mãozinha" ao passar o mouse */
+}
+
+/* Estilos para a seção principal do conteúdo */
+main {
+    padding: 20px; /* Adiciona espaçamento interno para o conteúdo principal */
+    min-height: calc(100vh - 245px); /* Calcula uma altura mínima para que o rodapé fique no final da página */
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #333; /* Define a cor de fundo do rodapé, igual ao cabeçalho */
+    color: white; /* Define a cor do texto no rodapé */
+    text-align: center; /* Centraliza o conteúdo do rodapé */
+    padding: 20px; /* Adiciona espaçamento interno */
+}
+
+/* Estilos para a lista de links no rodapé */
+.footer-links {
+    list-style: none; /* Remove os marcadores (bolinhas) da lista */
+    padding: 0; /* Remove o preenchimento padrão da lista */
+    margin: 0; /* Remove a margem padrão da lista */
+}
+
+/* Estilos para os links no rodapé */
+.footer-links a {
+    color: #00aaff; /* Define a cor do link */
+    text-decoration: none; /* Remove o sublinhado do link */
+}
